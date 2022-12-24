@@ -1,6 +1,6 @@
-# learning_flutter
+# Flutter for Android & Cross Platform
 
-A new Flutter project.
+
 
 ## Getting Started
 
